@@ -1,21 +1,3 @@
-# Welcome to MkDocs
-
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
-
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
-
 # Apresentação do projeto
 
 <div style="text-align: justify;">
@@ -69,3 +51,14 @@ Projeto desenvolvido para a disciplina de Arquitetura e Desenho de Software, min
     </td>
   </tr>
 </table>
+
+## Histórico de versões
+
+
+<font size="3"><p style="text-align: center">Tabela 1: Histórico de versões</p></font>
+
+| Versão |Descrição     |Autor                                       |Data    |Revisor|
+|:-:     | :-:          | :-:                                        | :-:        |:-:|
+|1.0     |Criação do documento| [Laryssa Felix](https://github.com/felixlaryssa)| 30/08/2025 | [Maria Eduarda](https://github.com/dudaa28)|
+
+<font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Danielle Soares](https://github.com/danielle-soaress), [Enzo Emir](https://github.com/EnzoEmir), [Laryssa Félix](https://github.com/felixlaryssa), [Letícia Arisa](https://github.com/Leticia-Arisa-K-Higa), [Marcelo Makoto](https://github.com/MM4k), [Maria Eduarda](https://github.com/dudaa28), [Victor Pontual](https://github.com/VictorPontual) e [Rafael Welz](https://github.com/RafaelSchadt) 2025.</p></font> 

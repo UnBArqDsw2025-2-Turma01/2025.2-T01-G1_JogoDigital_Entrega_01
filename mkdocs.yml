@@ -44,4 +44,12 @@ theme:
     - navigation.top
 
 nav:
-  - Entrega 1: index.md
+  - Apresentação: index.md
+  # - Entrega 1: 
+  #   - Artefatos Generalistas: 
+  #       - Entrega1/Artefatos Generalistas
+  - Planejamento: 
+    - Cronograma: Planejamento/Cronograma/Cronograma.md
+    - Ferramentas: Planejamento/Ferramentas/Ferramentas.md
+    - Metodologia: Planejamento/Metodologia/Metodologia.md
+  # - Reuniões:
