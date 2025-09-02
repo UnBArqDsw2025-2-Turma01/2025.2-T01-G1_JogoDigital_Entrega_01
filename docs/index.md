@@ -55,10 +55,10 @@ Projeto desenvolvido para a disciplina de Arquitetura e Desenho de Software, min
     </td>
   </tr>
   <tr>
-    <!-- <td align="center">
-      <img src="https://avatars.githubusercontent.com/u/125222370?v=4" width=100><br>
-      <b><a href="https://github.com/MM4k">Maria Eduarda</a></b><br>
-    </td> -->
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/u/164348330?v=4" width=100><br>
+      <b><a href="https://github.com/dudaa28">Maria Eduarda</a></b><br>
+    </td>
     <td align="center">
       <img src="https://avatars.githubusercontent.com/u/129227815?v=4" width=100><br>
       <b><a href="https://github.com/VictorPontual">Victor Pontual</a></b><br>
