@@ -9,10 +9,10 @@ Essa técnica consiste em reunir pessoas com experiência no domínio ou projeto
 
 ## 2. Informações do Projeto
 
-* **Nome do projeto:** \_\_\_\_
-* **Equipe:** \_\_\_\_
+* **Nome do projeto:** Jogo Digital
+* **Grupo:** 01
 * **Professor/Orientador:** \_\_\_\_
-* **Plataforma alvo:** ( ) Web  ( ) Desktop  ( ) Mobile  ( ) Multi
+* **Plataforma alvo:** Desktop
 
 ---
 
@@ -20,30 +20,37 @@ Essa técnica consiste em reunir pessoas com experiência no domínio ou projeto
 
 |  ID | Premissa/Restrição |      Impacto     | Observação |
 | :-: | :----------------- | :--------------: | :--------- |
-|  P1 | \_\_\_\_           | Alto/Médio/Baixo | \_\_\_\_   |
-|  R1 | \_\_\_\_           | Alto/Médio/Baixo | \_\_\_\_   |
+|  P1 | Desenvolvimento em Python          |Médio | Liguagem de programação principal definida   |
+|  R1 | Tempo de entrega acadêmico          | Alto | Datas fixas de disciplina   |
+|  R2 | Funcionalidades priorizadas           |Médio | Loja, inimigos e defesas simples na 1ª versão   |
 
 ---
 
 ## 4. Método de Estimativa
 
 * **Técnica:** Avaliação de Especialista
-* **Participantes:** Nome 1, Nome 2
-* **Critério de consenso:** ( ) Média aritmética ( ) Discussão até acordo ( ) Outra: \_\_\_\_
+* **Participantes:** Victor Pontual, Letícia Arisa
+* **Critério de consenso:** Média aritmética
 
 ---
 
-## 5. Lista de Atividades
+### **5. Lista de Atividades**
 
-Liste as principais tarefas do projeto.
+Com base no **Rich Picture**, as estimativas feitas pelos 2 especialistas depois são distribuídas entre os **10 membros**:
 
-|  ID | Atividade                         | Descrição                        | Responsável | Estimativa Pessoa A | Estimativa Pessoa B | Estimativa Final |
-| :-: | :-------------------------------- | :------------------------------- | :---------- | :-----------------: | :-----------------: | :--------------: |
-|  1  | Protótipo de telas                | Criar telas principais no Figma  | \_\_\_\_    |      \_\_\_\_h      |      \_\_\_\_h      |     \_\_\_\_h    |
-|  2  | Implementar movimentação inimigos | Lógica básica no tabuleiro       | \_\_\_\_    |      \_\_\_\_h      |      \_\_\_\_h      |     \_\_\_\_h    |
-|  3  | Implementar defesas               | Curupira, Saci, Cuca (1ª versão) | \_\_\_\_    |      \_\_\_\_h      |      \_\_\_\_h      |     \_\_\_\_h    |
-|  4  | Sistema de pontuação              | Ranking simples                  | \_\_\_\_    |      \_\_\_\_h      |      \_\_\_\_h      |     \_\_\_\_h    |
-|  5  | Testes iniciais                   | Jogadores-teste com feedback     | \_\_\_\_    |      \_\_\_\_h      |      \_\_\_\_h      |     \_\_\_\_h    |
+| ID | Atividade             | Descrição                                | Estimativa Final (h) | Alocação de Equipe |
+| -- | --------------------- | ---------------------------------------- | -------------------- | ------------------ |
+| 1  | Menu Inicial          | Implementar menu, configs, loja          | \_\_\_\_             | 2 devs             |
+| 2  | Configurações         | Acessibilidade, volume, prefs            | \_\_\_\_             | 1 dev              |
+| 3  | Loja                  | Comprar e vender recursos                | \_\_\_\_             | 2 devs             |
+| 4  | Modo de Jogo          | Dificuldade, mapa, fases                 | \_\_\_\_             | 2 devs             |
+| 5  | Rodadas               | Ciclo de início, defesa, vitória/derrota | \_\_\_\_             | 3 devs             |
+| 6  | Inimigos              | IA básica e ataques                      | \_\_\_\_             | 2 devs             |
+| 7  | Defesas               | Implementar personagens folclóricos      | \_\_\_\_             | 3 devs             |
+| 8  | Status do Jogador     | Vida, pontos, recursos                   | \_\_\_\_             | 2 devs             |
+| 9  | Pontuação/Ranking     | Contagem de pontos e vitórias            | \_\_\_\_             | 1 dev              |
+| 10 | Persistência de dados | Salvar/carregar progresso                | \_\_\_\_             | 2 devs             |
+| 11 | Testes                | Jogabilidade e feedback                  | \_\_\_\_             | Equipe inteira     |
 
 ---
 
