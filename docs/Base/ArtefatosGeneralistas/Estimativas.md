@@ -11,7 +11,7 @@ Essa técnica consiste em reunir pessoas com experiência no domínio ou projeto
 
 * **Nome do projeto:** Jogo Digital
 * **Grupo:** 01
-* **Professor/Orientador:** \_\_\_\_
+* **Professora:** Milene Serrano
 * **Plataforma alvo:** Desktop
 
 ---
@@ -57,22 +57,22 @@ Com base no **Rich Picture**, as estimativas feitas pelos 2 especialistas depois
 
 ## 6. Estimativa de Esforço e Tempo
 
-* **Unidade usada:** (x) Horas  ( ) Dias
-* **Esforço total estimado:** \_\_\_\_ h/d
-* **Tempo previsto (cronograma):** \_\_\_\_ semanas/meses
-* **Equipe média:** \_\_\_\_ pessoas
+* **Unidade usada:** Horas
+* **Esforço total estimado:** h
+* **Tempo previsto (cronograma):**  semanas
+* **Equipe:** 10 pessoas
 
 ---
 
 ## 7. Estimativa de Custo
 
-Definir custo-hora ou custo-dia da equipe e multiplicar pelo esforço.
+Definir custo-hora da equipe e multiplicar pelo esforço. foi considerado a média salarial de 3R$/h para desenvolvedores provida pelo Glassdoor
 
 | Item                     | Valor    |
 | ------------------------ | -------- |
-| Custo por hora (R\$)     | \_\_\_\_ |
-| Esforço total (h)        | \_\_\_\_ |
-| **Custo estimado (R\$)** | \_\_\_\_ |
+| Custo por hora(R$)     | 30,00 |
+| Esforço total (h)        | 1350 |
+| **Custo estimado (R\$)** | 4050 |
 
 ---
 
@@ -80,7 +80,7 @@ Definir custo-hora ou custo-dia da equipe e multiplicar pelo esforço.
 
 | Marco                 | Início   | Fim      | Responsável |
 | --------------------- | -------- | -------- | ----------- |
-| Protótipo             | \_\_\_\_ | \_\_\_\_ | \_\_\_\_    |
+| Protótipo             | 03/09 | 04/09 | todos    |
 | Implementação inicial | \_\_\_\_ | \_\_\_\_ | \_\_\_\_    |
 | Testes e ajustes      | \_\_\_\_ | \_\_\_\_ | \_\_\_\_    |
 | Entrega final         | \_\_\_\_ | \_\_\_\_ | \_\_\_\_    |
