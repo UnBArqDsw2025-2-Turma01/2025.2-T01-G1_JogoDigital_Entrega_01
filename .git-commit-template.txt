@@ -1,0 +1,21 @@
+<tipo>(<escopo>): <descrição breve>
+
+- [ ] **feat**: Uma nova funcionalidade.
+- [ ] **fix**: Correção de bug.
+- [ ] **docs**: Alterações apenas na documentação.
+- [ ] **style**: Alterações que não afetam o significado do código (espaços, formatação, ponto e vírgula ausente, etc).
+- [ ] **refactor**: Uma alteração de código que não corrige um bug nem adiciona uma funcionalidade.
+- [ ] **test**: Adição de testes ausentes ou correção dos existentes.
+- [ ] **chore**: Alterações no processo de build ou ferramentas auxiliares, como geração de documentação.
+- [ ] **perf**: Alteração de código que melhora a performance.
+- [ ] **ci**: Alterações nos arquivos e scripts de configuração de CI.
+- [ ] **build**: Alterações que afetam o sistema de build ou dependências externas (exemplo: gulp, broccoli, npm).
+- [ ] **temp**: Commit temporário que não será incluído no CHANGELOG.
+
+[corpo opcional]
+- Explique o que foi feito (considere colocar prints para auxiliar na review) e por quê 
+- Destaque mudanças relevantes ou impactos
+
+[rodapé opcional]
+- Referências a issues, tickets ou tarefas
+- BREAKING CHANGE: descreva a mudança incompatível
