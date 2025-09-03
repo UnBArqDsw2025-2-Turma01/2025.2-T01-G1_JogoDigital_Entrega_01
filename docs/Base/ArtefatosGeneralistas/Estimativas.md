@@ -29,7 +29,7 @@ Essa técnica consiste em reunir pessoas com experiência no domínio ou projeto
 ## 4. Método de Estimativa
 
 * **Técnica:** Avaliação de Especialista
-* **Participantes:** Victor Pontual, Letícia Arisa
+* **Participantes:** Victor Pontual, Leticia Arisa
 * **Critério de consenso:** Média aritmética
 
 ---
@@ -38,25 +38,26 @@ Essa técnica consiste em reunir pessoas com experiência no domínio ou projeto
 
 Com base no **Rich Picture**, as estimativas feitas pelos 2 especialistas depois são distribuídas entre os **10 membros**:
 
-| ID | Atividade             | Descrição                                | Estimativa Final (h) | Alocação de Equipe |
-| -- | --------------------- | ---------------------------------------- | -------------------- | ------------------ |
-| 1  | Menu Inicial          | Implementar menu, configs, loja          | \_\_\_\_             | 2 devs             |
-| 2  | Configurações         | Acessibilidade, volume, prefs            | \_\_\_\_             | 1 dev              |
-| 3  | Loja                  | Comprar e vender recursos                | \_\_\_\_             | 2 devs             |
-| 4  | Modo de Jogo          | Dificuldade, mapa, fases                 | \_\_\_\_             | 2 devs             |
-| 5  | Rodadas               | Ciclo de início, defesa, vitória/derrota | \_\_\_\_             | 3 devs             |
-| 6  | Inimigos              | IA básica e ataques                      | \_\_\_\_             | 2 devs             |
-| 7  | Defesas               | Implementar personagens folclóricos      | \_\_\_\_             | 3 devs             |
-| 8  | Status do Jogador     | Vida, pontos, recursos                   | \_\_\_\_             | 2 devs             |
-| 9  | Pontuação/Ranking     | Contagem de pontos e vitórias            | \_\_\_\_             | 1 dev              |
-| 10 | Persistência de dados | Salvar/carregar progresso                | \_\_\_\_             | 2 devs             |
-| 11 | Testes                | Jogabilidade e feedback                  | \_\_\_\_             | Equipe inteira     |
+| ID | Atividade             | Descrição                                | Estimativa A (h) | Estimativa B (h) | Estimativa Final (h) | Alocação de Equipe |
+| -- | --------------------- | ---------------------------------------- | ---------------- | ---------------- | -------------------- | ------------------ |
+| 1  | Menu Inicial          | Implementar menu, configs, loja          |       5h         | ____             | ____                 | 2 devs             |
+| 2  | Configurações         | Acessibilidade, volume, prefs            |       10h        | ____             | ____                 | 1 dev              |
+| 3  | Loja                  | Comprar e vender recursos                |       25h        | ____             | ____                 | 2 devs             |
+| 4  | Modo de Jogo          | Dificuldade, mapa, fases                 |       30h        | ____             | ____                 | 2 devs             |
+| 5  | Rodadas               | Ciclo de início, defesa, vitória/derrota |       20h        | ____             | ____                 | 3 devs             |
+| 6  | Inimigos              | IA básica e ataques                      |       20h        | ____             | ____                 | 2 devs             |
+| 7  | Defesas               | Implementar personagens folclóricos      |       40h        | ____             | ____                 | 3 devs             |
+| 8  | Status do Jogador     | Vida, pontos, recursos                   |       10h        | ____             | ____                 | 2 devs             |
+| 9  | Pontuação/Ranking     | Contagem de pontos e vitórias            |       5h         | ____             | ____                 | 1 dev              |
+| 10 | Persistência de dados | Salvar/carregar progresso                |       20h        | ____             | ____                 | 2 devs             |
+| 11 | Testes                | Jogabilidade e feedback                  |       60h        | ____             | ____                 | Equipe inteira     |
+
 
 ---
 
 ## 6. Estimativa de Esforço e Tempo
 
-* **Unidade usada:** ( ) Horas  ( ) Dias
+* **Unidade usada:** (x) Horas  ( ) Dias
 * **Esforço total estimado:** \_\_\_\_ h/d
 * **Tempo previsto (cronograma):** \_\_\_\_ semanas/meses
 * **Equipe média:** \_\_\_\_ pessoas
@@ -111,3 +112,4 @@ Decisões tomadas: \_\_\_\_
 |   Data   | Versão | Descrição            | Autor(es) |
 | :------: | :----: | :------------------- | :-------- |
 | 03/09 |   0.1  | Criação do documento base para preenchimento futuro | Victor Pontual  |
+| 03/09 |   0.2  | Preenchimento da coluna A da tabela de Lista de Atividades | Leticia Arisa  |
