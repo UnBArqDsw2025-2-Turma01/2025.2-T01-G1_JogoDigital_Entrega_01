@@ -85,6 +85,8 @@ A seguir está apresentada a tabela do **Glossário** com as definições dos te
 | Checkpoint              | Ponto intermediário salvo dentro da fase.                              | Dados e Sistema          |
 | Atualização             | Alterações no sistema (correções ou novas funcionalidades).             | Dados e Sistema          |
 
+<font size="2"><p style="text-align: center">Fonte: [Laryssa Felix](https://github.com/felixlaryssa),[Maria Eduarda](https://github.com/dudaa28), 2025.</p></font>
+
 ## Observações
 
 ??? note "Observação"
@@ -102,6 +104,10 @@ A seguir está apresentada a tabela do **Glossário** com as definições dos te
 
 2. SERRANO, Milene. *Arquitetura e Desenho de Software – Aula Projeto-DSW*. UnB, 2023. Disponível em: <https://aprender3.unb.br/pluginfile.php/3178378/mod_page/content/5/Arquitetura%20e%20Desenho%20de%20software%20-%20Aula%20Projeto-DSW%20-%20Profa.%20Milene.pdf>. Acesso em: 3 set. 2025.
 
+<p align="center">
+  <img src="docs_images/glossario.png" width="300">
+</p>
+
 
 ## Histórico de versões
 
@@ -111,6 +117,6 @@ A seguir está apresentada a tabela do **Glossário** com as definições dos te
 | Versão |Descrição     |Autor                                       |Data    |Revisor|
 |:-:     | :-:          | :-:                                        | :-:        |:-:|
 |1.0     |Criação do documento| [Laryssa Felix](https://github.com/felixlaryssa)| 30/08/2025 | [Maria Eduarda](https://github.com/dudaa28)|
-|1.1     |Criação do documento| [Maria Eduarda](https://github.com/dudaa28) | 03/09/2025 | [Laryssa Felix](https://github.com/felixlaryssa)|
+|1.1     |Documentação do Glossário| [Maria Eduarda](https://github.com/dudaa28) | 03/09/2025 | [Laryssa Felix](https://github.com/felixlaryssa)|
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Danielle Soares](https://github.com/danielle-soaress), [Enzo Emir](https://github.com/EnzoEmir), [Laryssa Félix](https://github.com/felixlaryssa), [Letícia Arisa](https://github.com/Leticia-Arisa-K-Higa), [Marcelo Makoto](https://github.com/MM4k), [Maria Eduarda](https://github.com/dudaa28), [Victor Pontual](https://github.com/VictorPontual) e [Rafael Welz](https://github.com/RafaelSchadt) 2025.</p></font> 
