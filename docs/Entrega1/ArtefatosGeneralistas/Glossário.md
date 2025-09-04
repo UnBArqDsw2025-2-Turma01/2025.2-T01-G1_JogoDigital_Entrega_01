@@ -2,10 +2,38 @@
 
 ## Introdução
 
+O **Glossário** é um artefato fundamental na disciplina de Arquitetura de Software, reunindo e organizando os principais termos que precisam ser conhecidos e compartilhados pela equipe de desenvolvimento. Ele cobre tanto o domínio de requisitos, garantindo clareza sobre os conceitos do problema, quanto o escopo técnico, assegurando compreensão uniforme da terminologia usada em módulos, metodologias e práticas.
+
+Esse recurso é essencial para alinhar a comunicação entre os participantes do projeto, esclarecendo papéis, responsabilidades e significados dos artefatos, reduzindo ambiguidades e mal-entendidos. Além das definições textuais, o glossário pode incluir imagens, ícones e links, tornando-o mais visual, didático e interativo.
+
+Assim, no contexto do nosso projeto, o objetivo é trazer — através do glossário — mais clareza e conhecimento relacionado ao jogo, suas ferramentas e funcionalidades trabalhadas pelo grupo.
+
+Dessa forma, o glossário se consolida como um elemento indispensável, promovendo consistência, clareza e alinhamento entre todos os envolvidos.
+
 ## Metodologia
+
+### Metodologia para Elaboração do Glossário
+
+- **Rich Picture**:  
+  Após consolidar o Rich Picture no Design Sprint, identificamos os principais elementos e conceitos do projeto.
+
+- **Brainstorming**:  
+  Em uma reunião, realizamos um brainstorming para levantar palavras, ideias e termos-chave relevantes ao projeto.
+
+- **Coleta e Organização**:  
+  As ideias e termos foram coletados, analisados e selecionados para garantir clareza e padronização.
+
+- **Construção do Glossário**:  
+  Com os termos organizados, elaboramos o glossário, registrando definições e complementos visuais quando necessários.
+
 
 
 ## Tabela
+
+A seguir está apresentada a tabela do **Glossário** com as definições dos termos utilizados no documento.
+
+
+<font size="3"><p style="text-align: center">Tabela 1: Glossário</p></font>
 
 | Termo                  | Definição                                                                 | Categoria                |
 |-------------------------|---------------------------------------------------------------------------|--------------------------|
@@ -57,14 +85,32 @@
 | Checkpoint              | Ponto intermediário salvo dentro da fase.                              | Dados e Sistema          |
 | Atualização             | Alterações no sistema (correções ou novas funcionalidades).             | Dados e Sistema          |
 
+## Observações
+
+??? note "Observação"
+    Durante a execução dessa etapa, vimos uma necessidade de agregar ao nosso artefato determinado valor com imagens, ícones e hiperlinks em nosso glossário. 
+    Porém, como acompanhado em videoaulas e documentações disponibilizadas pela professora Milene, chegamos à conclusão de agregar esse valor durante o processo de execução do projeto, podendo assim trazer maior qualidade com maiores perspectivas, técnicas e tempo.
+
+<font size="2"><p style="text-align: center">Fonte: [Laryssa Felix](https://github.com/felixlaryssa),[Maria Eduarda](https://github.com/dudaa28), 2025.</p></font>
+
+## Gravação
+
+
+## Bibliografia
+
+1. SERRANO, Milene. VideoAula - DSW Base - Glossário Léxico [vídeo]. UnB, 2023. Disponível em: <https://unbbr-my.sharepoint.com/personal/mileneserrano_unb_br/_layouts/15/stream.aspx?id=%2Fpersonal%2Fmileneserrano%5Funb%5Fbr%2FDocuments%2FArqDSW%20%2D%20V%C3%ADdeosOriginais%2F02g%20%2D%20VideoAula%20%2D%20DSW%2DBase%20%2D%20Glossario%20Lexico%2Emp4>. Acesso em: 3 set. 2025.
+
+2. SERRANO, Milene. *Arquitetura e Desenho de Software – Aula Projeto-DSW*. UnB, 2023. Disponível em: <https://aprender3.unb.br/pluginfile.php/3178378/mod_page/content/5/Arquitetura%20e%20Desenho%20de%20software%20-%20Aula%20Projeto-DSW%20-%20Profa.%20Milene.pdf>. Acesso em: 3 set. 2025.
+
 
 ## Histórico de versões
 
 
-<font size="3"><p style="text-align: center">Tabela 1: Histórico de versões</p></font>
+<font size="3"><p style="text-align: center">Tabela 2: Histórico de versões</p></font>
 
 | Versão |Descrição     |Autor                                       |Data    |Revisor|
 |:-:     | :-:          | :-:                                        | :-:        |:-:|
 |1.0     |Criação do documento| [Laryssa Felix](https://github.com/felixlaryssa)| 30/08/2025 | [Maria Eduarda](https://github.com/dudaa28)|
+|1.1     |Criação do documento| [Maria Eduarda](https://github.com/dudaa28) | 03/09/2025 | [Laryssa Felix](https://github.com/felixlaryssa)|
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Danielle Soares](https://github.com/danielle-soaress), [Enzo Emir](https://github.com/EnzoEmir), [Laryssa Félix](https://github.com/felixlaryssa), [Letícia Arisa](https://github.com/Leticia-Arisa-K-Higa), [Marcelo Makoto](https://github.com/MM4k), [Maria Eduarda](https://github.com/dudaa28), [Victor Pontual](https://github.com/VictorPontual) e [Rafael Welz](https://github.com/RafaelSchadt) 2025.</p></font> 
