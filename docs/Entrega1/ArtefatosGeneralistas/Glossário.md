@@ -105,7 +105,7 @@ A seguir está apresentada a tabela do **Glossário** com as definições dos te
 2. SERRANO, Milene. *Arquitetura e Desenho de Software – Aula Projeto-DSW*. UnB, 2023. Disponível em: <https://aprender3.unb.br/pluginfile.php/3178378/mod_page/content/5/Arquitetura%20e%20Desenho%20de%20software%20-%20Aula%20Projeto-DSW%20-%20Profa.%20Milene.pdf>. Acesso em: 3 set. 2025.
 
 <p align="center">
-  <img src="docs_images/glossario.png" width="300">
+  <img src="assets/images/glossario.png" width="300">
 </p>
 
 
