@@ -1,16 +1,20 @@
 # Apresentação do projeto
 
-<div style="text-align: justify;">
-<p>
-Este projeto foi desenvolvido para a disciplina Arquitetura e Desenho de Software, ministrada pela professora Milene Serrano.
+## Introdução
+<!-- 
+<div style="text-align: justify;"> -->
 
-A proposta consiste na criação de um jogo digital do gênero tower defense, inspirado em títulos consagrados como Plantas vs. Zumbis, no qual o jogador deve utilizar estratégias de defesa para proteger sua base contra ondas sucessivas de inimigos.
 
-Diferencialmente, este projeto incorpora a temática do folclore brasileiro, trazendo personagens, criaturas e elementos culturais nacionais para dentro da experiência de jogo. Entidades protetoras do folclore, como Curupira, Saci e Iara, assumem o papel de defensores, enquanto figuras como Boitatá, Cuca e Mapinguari se apresentam como inimigos desafiadores.
+Este projeto foi desenvolvido para a disciplina **Arquitetura e Desenho de Software**, ministrada pela professora **Milene Serrano**.  
 
-Dessa forma, além de proporcionar entretenimento, o jogo busca valorizar a cultura popular brasileira, promovendo uma experiência lúdica, educativa e ao mesmo tempo estratégica, que conecta a tradição oral do folclore com a tecnologia digital e o design de software.
-</p>
-</div>
+A proposta consiste na criação de um **jogo digital do gênero *tower defense***, inspirado em títulos consagrados como *Plantas vs. Zumbis*, no qual o jogador deve utilizar estratégias de defesa para proteger sua base contra ondas sucessivas de inimigos.  
+
+Diferencialmente, este projeto incorpora a **temática do folclore brasileiro**, trazendo personagens, criaturas e elementos culturais nacionais para dentro da experiência de jogo. Entidades protetoras do folclore, como **Curupira, Saci e Iara**, assumem o papel de defensores, enquanto figuras como **Boitatá, Cuca e Mapinguari** se apresentam como inimigos desafiadores.  
+
+Dessa forma, além de proporcionar entretenimento, o jogo busca **valorizar a cultura popular brasileira**, promovendo uma experiência lúdica, educativa e ao mesmo tempo estratégica, que conecta a tradição oral do folclore com a tecnologia digital e o design de software.  
+
+<!-- </div> -->
+
 
 ## Integrantes
 
