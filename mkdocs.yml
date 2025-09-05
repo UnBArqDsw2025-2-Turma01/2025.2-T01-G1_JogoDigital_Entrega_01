@@ -52,7 +52,12 @@ nav:
   #   - Cronograma: Planejamento/Cronograma/Cronograma.md
   #   - Ferramentas: Planejamento/Ferramentas/Ferramentas.md
   #   - Metodologia: Planejamento/Metodologia/Metodologia.md
-  # - Reuniões:
+
+  - Atas Reunião: 
+    - Entrega 01:
+      - Ata I: Base/Atas/Entrega 01/Ata I.md
+      - Ata II: Base/Atas/Entrega 01/Ata II.md
+      - Ata III: Base/Atas/Entrega 01/Ata III.md
   - 1. Desenho de Software: 
     - 1.1. Design Sprint: Base/1.1.DesignSprint.md
     - 1.2. Artefato Generalista:
