@@ -9,7 +9,18 @@ Este projeto foi desenvolvido para a disciplina **Arquitetura e Desenho de Softw
 
 A proposta consiste na criação de um **jogo digital do gênero *tower defense***, inspirado em títulos consagrados como *Plantas vs. Zumbis*, no qual o jogador deve utilizar estratégias de defesa para proteger sua base contra ondas sucessivas de inimigos.  
 
+![zombies](assets/zombies.jpeg)
+
+<font size="2"><p style="text-align: center">Fonte: <a href="https://br.pinterest.com/pin/229824387204174281/">Pinterest</a>, 2025.</p></font>
+
+
 Diferencialmente, este projeto incorpora a **temática do folclore brasileiro**, trazendo personagens, criaturas e elementos culturais nacionais para dentro da experiência de jogo. Entidades protetoras do folclore, como **Curupira, Saci e Iara**, assumem o papel de defensores, enquanto figuras como **Boitatá, Cuca e Mapinguari** se apresentam como inimigos desafiadores.  
+
+![folclore](assets/folclore.png)
+
+<font size="2"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/dudaa28) 2025.</p></font>
+
+
 
 Dessa forma, além de proporcionar entretenimento, o jogo busca **valorizar a cultura popular brasileira**, promovendo uma experiência lúdica, educativa e ao mesmo tempo estratégica, que conecta a tradição oral do folclore com a tecnologia digital e o design de software.  
 
@@ -70,5 +81,6 @@ Dessa forma, além de proporcionar entretenimento, o jogo busca **valorizar a cu
 | Versão |Descrição     |Autor                                       |Data    |Revisor|
 |:-:     | :-:          | :-:                                        | :-:        |:-:|
 |1.0     |Criação do documento| [Laryssa Felix](https://github.com/felixlaryssa)| 30/08/2025 | [Maria Eduarda](https://github.com/dudaa28)|
+|1.1     |Adição de Imagens e Atualizações| [Maria Eduarda](https://github.com/dudaa28)| 05/09/2025 | [Caio Duarte](https://github.com/caioduart3)|
 
 <font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), [Danielle Soares](https://github.com/danielle-soaress), [Enzo Emir](https://github.com/EnzoEmir), [Laryssa Félix](https://github.com/felixlaryssa), [Letícia Arisa](https://github.com/Leticia-Arisa-K-Higa), [Marcelo Makoto](https://github.com/MM4k), [Maria Eduarda](https://github.com/dudaa28), [Victor Pontual](https://github.com/VictorPontual) e [Rafael Welz](https://github.com/RafaelSchadt) 2025.</p></font> 
